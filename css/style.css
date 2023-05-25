@@ -1,0 +1,46 @@
+* {
+    background-color: #d2f3f3;
+    font-family: cursive;
+}
+body {
+    margin: 10;
+}
+
+h1 {
+    margin: auto;
+    color: #6d6de8;
+    width: 30%;
+}
+
+.navbar {
+    background-color: #333;
+    width: 92%;
+    margin-left: 3%;
+    position: fixed;
+    border-radius: 5px;
+}
+.navbar img {
+    float: left;
+    width: 3%;
+    margin: 6px;
+    border-radius: 50%;
+}
+.navbar a {
+    background: transparent;
+    color: #f2f2f2;
+    padding: 14px 16px;
+    float: left;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+
+
+p {
+    margin-top: 200px;
+    text-align: center;
+    font-size: 60px;
+    color: rgb(255, 0, 55);
+}
