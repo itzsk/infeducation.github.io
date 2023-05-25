@@ -39,13 +39,14 @@ h1 {
     margin: 100px;
 }
 .demo-link h3 {
-    color: rgb(10, 107, 16);
+    color: #0a6b10;
     background-color: #9d9dec;
     padding: 5px;
 }
 .demo-link a {
     text-decoration: none;
 }
+
 
 
 
