@@ -35,6 +35,17 @@ h1 {
 }
 
 
+.demo-link {
+    margin: 100px;
+}
+.demo-link h3 {
+    color: rgb(10, 107, 16);
+    background-color: #9d9dec;
+    padding: 5px;
+}
+.demo-link a {
+    text-decoration: none;
+}
 
 
 
